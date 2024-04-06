@@ -1,0 +1,14 @@
+/* Selector por etiqueta */
+/* section {
+    color:rgb(255, 38, 0)
+} */
+
+/* Selector con clases */
+.azul {
+    color:blue;
+}
+/* Selector con ID */
+#verde {
+    color: brown;
+}
+/* La diferencia entre clases y ID. Para las clases seria "." y para el ID seria "#". En las clases se toman mayormente los titulos que engloban las ID (substitulos, etc). En el ID dentro de cada seccion difiere del color del titulo */
